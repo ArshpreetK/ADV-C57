@@ -1,0 +1,29 @@
+#welcome {
+    height: 800px ;
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,62,121,1) 48%, rgba(0,212,255,1) 100%);
+}
+#harrypic {
+    border-radius: 150px;
+}
+#name {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px ;
+    color: floralwhite;
+}
+#name1 {
+    font-family:cursive;
+    font-size: 40px;
+    color: ghostwhite;
+
+}
+.line
+{
+    height: 6px;
+    width: 70px;
+    background-color: black;
+}
+p
+{
+    max-width: 450px;
+    font-size: 17px;
+}
